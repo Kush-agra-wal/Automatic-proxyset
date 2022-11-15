@@ -4,7 +4,7 @@ import winreg
 import requests as req
 
 
-def login(url="http://stgw.iitmandi.ac.in/ug/authenticate.php", username="JOE", password="mama"):
+def login(url="http://stgw.iitmandi.ac.in/ug/authenticate.php", username="joe", password="mama"):
 
     myobj = {
         "username": username,
