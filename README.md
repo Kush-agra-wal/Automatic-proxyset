@@ -1,4 +1,4 @@
-# Automatic-proxyset
+# Automatic-proxyset-IITMandi
 Enable proxy in Windows automatically when connected to specific network and disable when connected to any other network
 
 To set this first download the python file in repo and in the python file change values of username to your roll number ~~joe~~ and password of your LDAP ~~mama~~ and save.
